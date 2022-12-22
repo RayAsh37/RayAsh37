@@ -10,6 +10,7 @@ I am a software engineer with a focus on front-end development using the React f
 ## Projects
 * Fighting Game using VanillaJS(ES6) and HTML5 Canvas API
 * MovieDB app using ReactJS connected with a public API
+* GPT-3 powered webapp that can generate motivational quotes for your Blogs.
 * NextJS 12 app connected to the Riot Public API for giving suggestions on champs
 
 ## Education
