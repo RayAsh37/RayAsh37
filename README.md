@@ -20,4 +20,4 @@ I am a software engineer with a focus on front-end development using the React f
 ## Experience
 * Software Engineer at LTIMindtree (1 year): Software Engineer
 
-Feel free to contact me for any opportunities or to connect!
+Feel free to contact me for any opportunities or to connect through my [Twitter](https://twitter.com/RayAsh37)!
