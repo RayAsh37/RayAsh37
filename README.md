@@ -7,7 +7,7 @@ I am a software engineer with a focus on front-end development using the React f
 * Experience with Redux and other state management libraries
 * Familiar with Node.js and Express for backend development
 
-## Projects
+## Projects(pinned below)
 * Fighting Game using VanillaJS(ES6) and HTML5 Canvas API
 * MovieDB app using ReactJS connected with a public API
 * GPT-3 powered webapp that can generate motivational quotes for your Blogs.
