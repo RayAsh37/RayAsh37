@@ -8,10 +8,10 @@ I am a software engineer with a focus on front-end development using the React f
 * Familiar with Node.js and Express for backend development
 
 ## Projects(pinned below)
-* Fighting Game using VanillaJS(ES6) and HTML5 Canvas API
-* MovieDB app using ReactJS connected with a public API
-* GPT-3 powered webapp that can generate motivational quotes for your Blogs.
-* NextJS 12 app connected to the Riot Public API for giving suggestions on champs
+* [Fighting Game using VanillaJS(ES6) and HTML5 Canvas API](https://github.com/RayAsh37/fighting-game)
+* [MovieDB app using ReactJS connected with a public API](https://github.com/RayAsh37/MovieDB-ReactProject)
+* [GPT-3 powered webapp that can generate motivational quotes for your Blogs](https://github.com/RayAsh37/gpt3-powered-quote-generator)
+* [NextJS 12 app connected to the Riot Public API for giving suggestions on champs](https://github.com/RayAsh37/personal-project-lol-playstyle)
 
 ## Education
 * Bachelor's Degree in Electronics and Communication Engineering
