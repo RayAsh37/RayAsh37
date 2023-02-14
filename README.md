@@ -5,7 +5,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
 </a>
 
-<br/>
+<div></div>
 
 # Ashray Shetty
 
