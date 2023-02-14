@@ -1,8 +1,8 @@
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true" />
+<a href="https://twitter.com/RayAsh37/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RayAsh37&show_icons=true" />
 </a>
-<a href="https://twitter.com/dims/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
+<a href="https://twitter.com/RayAsh37/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayAsh37&hide=html,ruby" />
 </a>
 
 <div></div>
