@@ -1,8 +1,8 @@
 <a href="https://twitter.com/RayAsh37/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RayAsh37&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=RayAsh37&show_icons=true" />
 </a>
 <a href="https://twitter.com/RayAsh37/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayAsh37&hide=html,ruby" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayAsh37&hide=html,ruby" />
 </a>
 
 <br />
