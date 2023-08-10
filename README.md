@@ -1,12 +1,4 @@
-<a href="https://twitter.com/RayAsh37/">
-  <img  src="https://github-readme-stats.vercel.app/api?username=RayAsh37&show_icons=true" />
-</a>
-<a href="https://twitter.com/RayAsh37/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayAsh37&hide=html,ruby" />
-</a>
 
-#  
-#  
 # Ashray Shetty
 
 I am a software engineer with a focus on front-end development using the React framework. I have experience building scalable and maintainable web applications, and am always looking for ways to improve my skills and stay up-to-date with the latest technologies.
